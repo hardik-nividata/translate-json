@@ -22,6 +22,14 @@ To install all the required modules use `pip install -r requirements.txt` comman
   pip install -r requirements.txt
 ```
 
+### Environment Variables
+
+To run this project, you will need to add the following environment variables to your .env file for get the access of different services.
+
+```bash
+DEEPL_API_KEY=api-key
+```
+
 ## Getting Started
 
 To run this script run below command.
