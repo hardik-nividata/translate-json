@@ -39,8 +39,6 @@ To run this script run below command.
 ```
 
 Both arguments are required. 
-```
-    Arguments: 
-    * /path/to/json_file : mention the json file path
-    * target_langugae: Give the 2 letter ISO language code [`Supported Languages`](https://developers.deepl.com/docs/resources/supported-languages#target-languages).
-```
+Arguments: 
+* /path/to/json_file : mention the json file path
+* target_langugae: Give the 2 letter ISO language code [`Supported Languages`](https://developers.deepl.com/docs/resources/supported-languages#target-languages).
