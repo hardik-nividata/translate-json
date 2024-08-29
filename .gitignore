@@ -1,0 +1,6 @@
+venv
+
+translated
+.env
+
+*.json
